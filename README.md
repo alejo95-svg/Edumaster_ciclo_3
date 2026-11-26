@@ -1,3 +1,5 @@
+> Este repositorio es el **ciclo 3** del proyecto Edumaster (Misión TIC 2022). El **ciclo 4**, con la interfaz y la API posteriores, está en [Edumaster_ciclo_4](https://github.com/alejo95-svg/Edumaster_ciclo_4).
+
 <p align=center> 
   <img src="https://misiontic2022.mintic.gov.co/mtv2/assets/assets/images/logo-mision.png" alt="Logo mision tic 2022" style= " width: 200px;">
 </p>
